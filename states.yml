@@ -1,0 +1,9 @@
+#Germany
+- name: Berlin
+  #country_id: "155"
+  #id: "101"
+  abbr: Bln
+- name: Bayern
+  #country_id: "155"
+  #id: "102"
+  abbr: Bay
